@@ -1,2 +1,2 @@
-# transcendence
-Web-based ping-pong game "Transcendence", a project for school 42
+# Transcendence
+Transcendence is a web-based ping pong game. 
